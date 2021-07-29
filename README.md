@@ -27,7 +27,7 @@ The MNIST database contains 60,000 training images and 10,000 testing images.
 # To Do:
 
 
-- [ ] CNN
+- [x] CNN
 - [ ] RNNN
 - [ ] LSTM
 - [ ] GPU
