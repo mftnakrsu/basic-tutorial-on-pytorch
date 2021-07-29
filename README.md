@@ -21,6 +21,8 @@ The MNIST database contains 60,000 training images and 10,000 testing images.
 
   * [Logistic Regression](logisticRegression_torch.py)
   * [Artificial Neural Networks](ann_torch.py)
+  * [Convolutional Neural Networks](cnn_torch.py)
+
 
 # To Do:
 
